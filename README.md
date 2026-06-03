@@ -38,6 +38,6 @@ The system architecture supports three primary application frameworks:
 * **B2G / Municipal Integration:** Direct data and physical node deployment for environmental compliance networks and regional pollution boards.
 * **Private Industrial Compliance:** Continuous perimeter monitoring surrounding manufacturing, chemical processing, and refinery discharge channels.
 * **Managed Conservation:** Aggregated data licensing layers alongside hardware distribution for marine research teams and non-governmental ecological organizations.
-
+🚀 **Live Simulation Link:** [Click here to launch Octopus Live Dashboard]([PASTE_YOUR_VERCEL_URL_HERE](https://octopus-nine-blue.vercel.app/))
 ## Licensing and Governance
 OCTOPUS is developed to bridge the functional gap between real-time environmental detection and corporate legal accountability—protecting continuous aquatic biomes and securing industrial compliance.
